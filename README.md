@@ -24,20 +24,26 @@ The main purpose of creating Slim Jim is keep the 2.8inch touch screen also redu
 
 ## Specification of the ESP32 Marauder Slim Jim
 
-• It support latest Marauder firmware (1.2.1 currently), ESP32 WiFi and Bluetooth capabilities. 
-• 2.8 inch touchscreen. 
-• Adding a GPS module while maintaining the compact size of the unit. 
-• Dual antenna SMA connectors for WIFI and GPS 
-• Dual 18650 batteries and USB C charging for long operational life. 
-• Micro SD card slot for file sharing, backup, and firmware updates.  
-• 6 GPIO interface for bricking device recovery 
-• Premium 3D printed full enclosure (Optional).  
-• Package content: 1 * unit, 2 * antenna, 1 * Micro SD card, 1 * USB-C cable and optional 3d enclosure.  
+- Latest Marauder Firmware pre-loaded.
+- 2.8 inch touchscreen.
+- Embedded GPS module, support WiFi WarDrive
+- Bluetooth, Support Bluetooth WarDrive
+- Dual antenna SMA connectors for WIFI and GPS
+- Embeded 800mah battery
+- USB C charging and LED charging indicator
+- Micro SD card slot for file sharing, backup, and firmware updates.
+- 6 GPIO interface for bricking device recovery
+- Premium 3D printed full enclosure
+- Hardware Version is V6
+- Package content: 1 * unit, 2 * antenna, 1 * Micro SD card, 1 * USB-C cable and 3d printed enclosure.  
+
+
+
 
 
 <br/>
 
-## What is the difference between our boards for Flipper Zero. 
+## What are the differences between our Marauder Units. 
 
 <br/>
 
@@ -47,9 +53,7 @@ The main purpose of creating Slim Jim is keep the 2.8inch touch screen also redu
 
   
 ## How the board operate 
-- Simply plug the board into the Flipper Zero, use the switch to select the chipset: 'N' stands for the nRF24 chipset, and 'E' stands for ESP32. Then, choose one of the corresponding apps on the Flipper, and you're good to go.
-- The nRF24 and CC1101 chipsets do not require additional firmware to function. Most Flipper Zero firmware, including Momentum, Unleashed, and others, support them natively.
-- The ESP32 requires Marauder firmware to function, and it comes pre-loaded with the firmware on the ESP32 chipset.
+- The Unit has been setup fully before postage. Just connect both antennas and enjoy. 
 
 <br/>
 
