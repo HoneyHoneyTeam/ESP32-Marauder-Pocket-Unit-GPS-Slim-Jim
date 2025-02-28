@@ -63,23 +63,21 @@ The main purpose of creating Slim Jim is keep the 2.8inch touch screen also redu
 
 <br/>
 
-To upgrade the Marauder of this Multiboard, we suggest using [ESP32 Flasher] from Momentum / Unleashed / Xtreme firmware. How to nevigate between menu and name of the menu might vary from firmware and firmware, but 90% should be identical
+1. Take the Micro SD card from the Marauder Unit and connect to an PC / Laptop / Mac / whatever
 
-1. The testing environment is Xtreme Firmware 0053 Version.
-
-2. While holding the < Boot1 / B > button on the board, click the < EN1 / E> button, then release the < Boot1 / B> button, then release the < EN1 / E> button. The board should be in bootloader mode now
+2. Download the **V6** firmware file, which is usual inclued < **_new_hardware.bin/_v6.bin** > in the name, from [Marauder website](https://github.com/justcallmekoko/ESP32Marauder/releases).
    
-3. Navigating Flipper Zero menu as following: < Apps > => < GPIO > => < [ESP] ESP Flasher > => < Quick Flash > => < Other ESP32-S2 > = < Marauder >
-   
-4. Flipper should start flashing the board with Marauder firmware from this point.
+3. Copy the file to the Micro SD card and rename it as< **update.bin** >. Then, insert the Micro SD card back into the Marauder Unit.
 
-5. The screen should instruct you to reset the board if it did not auto-reset. Once reset, the process is complete.
+4. Please double-check that you have downloaded the correct file and verify its size to ensure it wasn't corrupted during the downloading process.
+   
+5. Turn on the Marauder Unit Navigating menu as following: < **Device** > => < **Update firmware** > => < **SD Update** > => < **Yes** >. 
+   
+6. In a minute, The unit should restart itself and you are golden.
 
 FYI. 
 
-- If this is your first time to try this function, it might take a few times to get it right, I would do the “press and release” action first before launching the ESP32 Flasher. 
-- If you would like to flash a particular version of the Marauder, the Marauder bin file need to drop into the ESP32 folder of the Flipper Zero micro SD card
-- There are multiple ways to upgrade Marauder, but in our opinion, this method is the least complicated as of writing this manual.
+- Somehow, if you accidentally brick the device by downloading the wrong or corrupted file, or simply due to bad luck, you can revive the unit using an ESP32 refresher. The catch is that not every refresher on the market is compatible. We’ve tested 4-5 different refreshers before deciding to make our own. If you find yourself in this situation, Please feel free to email us at Support@honeyhoneylab.com. or [Whatsapp](https://wa.me/61452559581) .
 
 </details>
 
@@ -104,31 +102,13 @@ To all our clients who purchased items from our shop, whether from Etsy, eBay, T
 <br/>
 
 ## Credibility
-- Credit of the [web flasher](https://esp.huhn.me/) goes to <ins>@spacehuhn</ins>
 - Credit of Marauder Firmware goes to <ins>@JustCallmeCoco</ins>
 
 <br/>
 
 ## FAQ 
 
-**How do we test the board functionality pre-shipment?**
-
-<details>
-<summary> Click the Triangle for more details   </summary>
-
-<br/>
-
-**For Marauder / ESP32: **
-- Turn the switch onboard to the right side (ESP32 / E).
-- Open an Flipper App Call < [ESP32] Marauder > => < Scan = > AP >. Flipper should start showing the different WIFI AP info in your surroundings.
-- Sometimes the APP might freeze at < press back to send stopscan > momentarily. I usually wait for a few seconds or re-launch the app altogether. 
-
-
-**For NRF24**
-- Turn the switch on board to left side (NRF24 / N)
-- Open an Flipper App Call < [NRF24]Sniffer > , then click the middle bottom / enter bottom of Flipper Zero, the onscreen info of Sniffing should turn < No > to < Yes >. Also Address should start changing at this point, if there is working wireless mouses / keyboards nearby. 
-
-</details>
+To be Continue. 
 
 <br/>
 
