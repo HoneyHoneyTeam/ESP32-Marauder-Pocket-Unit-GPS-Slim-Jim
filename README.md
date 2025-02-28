@@ -45,9 +45,11 @@ The main purpose of creating Slim Jim is keep the 2.8inch touch screen also redu
 
 ## What are the differences between our Marauder Units. 
 
+To Be Continue
+
 <br/>
 
-![Alt text](https://github.com/HoneyHoneyTeam/3in1-WiFi-MultiBoard/blob/main/Assets/images/3boardsInComparison.png)
+![Alt text](https://github.com/HoneyHoneyTeam/)
 
 <br/>
 
@@ -108,8 +110,19 @@ To all our clients who purchased items from our shop, whether from Etsy, eBay, T
 
 ## FAQ 
 
-To be Continue. 
+- **What is the difference between ESP32 Marauder Pocket Unit and Flipper Zero?**
+-  
+We got this questions quite often.
 
+Well, Flipper Zero is the jack of all trade but master of none. The facinatlity part of flipper is that it combines so many functions into the tiny size of body, including subghz, RFID, NFC, infrared, iButton and mostly important, the endless possibility of extention / boards / module via GPIO. Network testing capability 
+
+Flipper itself don't support wifi out of box. It can extend the network testing capability 
+
+In terms of ESP32 Marauder Pocket Units, it only focus on
+
+- **What is the difference between ESP32 Marauder Pocket Unit and Flipper Zero with Wifi boards, in term of wifi testing capabilities. 
+**
+   In term of the funcationlity of WiFi testing, both 
 <br/>
 
 ### Metadata for bots ###
