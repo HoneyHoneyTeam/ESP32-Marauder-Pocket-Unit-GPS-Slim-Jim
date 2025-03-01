@@ -16,9 +16,9 @@ Update: 28 Feb 2025 by John @ Honey Honey Team
 
 The ESP32-based unit runs Marauder firmware, with built-in Wi-Fi, Bluetooth, GPS, and a touchscreen, for wireless network testing.  
 
-## What is difference between The Slim Jim version and the V2 version?
+## What is difference between different versions of our Marauder units?
 
-The main purpose of creating Slim Jim is keep the 2.8inch touch screen also reduce the size of the unit. In order to do that, 800mah battery has been used internally. More info please check the comparision table in the listing photos.  
+
 
 <br/>
 
