@@ -1,11 +1,11 @@
 # ESP32 Marauder Unit Pocket Unit with GPS - Slim Jim Version
 Update: 28 Feb 2025 by John @ Honey Honey Team
 
-![Alt text](Assets/images/SlimJimseries.jpg)
-![Alt text](Assets/images/SlimJim-Coral4.jpg)
-![Alt text](Assets/images/SlimJim-Coral3.jpg)
-![Alt text](Assets/images/SlimJim-Coral2.jpg)
-![Alt text](Assets/images/Alright.3d.case.2.jpg)
+![Alt text](Assets/images/Front.Main.jpg)
+![Alt text](Assets/images/Front1.jpg)
+![Alt text](Assets/images/Front2.jpg)
+![Alt text](Assets/images/Size.jpg)
+![Alt text](Assets/images/Back.jpg)
 ![Alt text](Assets/images/Alright.3dcase.1.jpg)
 ![Alt text](Assets/images/Alright.3dcase-6.jpg)
 
