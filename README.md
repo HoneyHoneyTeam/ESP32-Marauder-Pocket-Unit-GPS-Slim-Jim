@@ -15,10 +15,6 @@ Update: 28 Feb 2025 by John @ Honey Honey Team
 
 The ESP32-based unit runs Marauder firmware, with built-in Wi-Fi, Bluetooth, GPS, and a touchscreen, for wireless network testing.  
 
-## What is difference between different versions of our Marauder units?
-
-
-
 <br/>
 
 ## Specification of the ESP32 Marauder Slim Jim
