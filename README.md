@@ -6,8 +6,7 @@ Update: 28 Feb 2025 by John @ Honey Honey Team
 ![Alt text](Assets/images/Front2.jpg)
 ![Alt text](Assets/images/Size.jpg)
 ![Alt text](Assets/images/Back.jpg)
-![Alt text](Assets/images/Alright.3dcase.1.jpg)
-![Alt text](Assets/images/Alright.3dcase-6.jpg)
+
 
 <br/>
 
@@ -119,13 +118,17 @@ To all our clients who purchased items from our shop, whether from Etsy, eBay, T
 We get this question quite often.
 <br/>  
 
+**TL;DR** <br/>
+In short, Flipper Zero and ESP32 Marauder Pocket Units are two very different tools, but their network testing capabilities overlap because both can run the Marauder firmware. If you're heavily involved in network testing, the Marauder is the way to go. Otherwise, Flipper Zero would be a better investment.
+
+**Non-TL;DR**<br/>
 Flipper Zero is the jack of all trades but master of none. What’s fascinating about Flipper is how it combines so many functions into such a compact form factor, including SubGHz, RFID, NFC, infrared, iButton, and, most importantly, the endless possibilities for extensions/boards/modules via GPIO.
 
 Flipper itself doesn’t support Wi-Fi out of the box. However, it can extend its network testing capabilities by using extension boards via GPIO. There are quite a few Wi-Fi boards available for this purpose, including [ours](https://github.com/HoneyHoneyTeam/3in1-WIFI-MultiBoard-with-Screen). At a fundamental level, most of these boards work in a very similar way. Additionally, most of the Wi-Fi boards run the Marauder firmware, which enhances their capabilities for Wi-Fi pen-testing.
 
 As for the ESP32 Marauder Pocket Units, they are primarily focused on Wi-Fi pen-testing via Marauder firmware, just like the Wi-Fi boards for Flipper Zero. However, with a 2.8-inch screen, the Marauder Pocket Unit provides much more real-time information compared to the small screen on Flipper Zero. Plus, the Marauder Pocket Unit comes with GPS, a larger battery, Bluetooth, and more—features that Flipper lacks. As a result, it can offer up to 15% more functionality than Flipper Zero in this area.
 
-In short, Flipper Zero and ESP32 Marauder Pocket Units are two very different tools, but their network testing capabilities overlap because both can run the Marauder firmware. If you're heavily involved in network testing, the Marauder is the way to go. Otherwise, Flipper Zero would be a better investment.
+
 
 </details>
 
