@@ -128,5 +128,5 @@ As for the ESP32 Marauder Pocket Units, they are primarily focused on Wi-Fi pen-
 
 </details>
 
-## Metadata for bots ###
+## Metadata / keywords / about for bots ##
 flipper zero, flipper, wifi board, marauder, network security, esp32, cc1101, nrf24, subghz, 2.4ghz, wifi, 
