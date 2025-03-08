@@ -44,7 +44,7 @@ To Be Continue
 
 <br/>
 
-![Alt text](https://github.com/HoneyHoneyTeam/)
+![Alt text](Assets/images/InComparison.png)
 
 <br/>
 
