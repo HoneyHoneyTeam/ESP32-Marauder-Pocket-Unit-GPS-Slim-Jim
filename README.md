@@ -119,6 +119,8 @@ As for the ESP32 Marauder Pocket Units, they are primarily focused on Wi-Fi pen-
 
 </details>
 
+<br/>
+
 ## Credibility
 - Credit of Marauder Firmware goes to <ins>@JustCallmeCoco</ins>
 
