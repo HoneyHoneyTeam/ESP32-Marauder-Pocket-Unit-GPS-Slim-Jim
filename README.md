@@ -40,10 +40,6 @@ The ESP32-based unit runs Marauder firmware, with built-in Wi-Fi, Bluetooth, GPS
 
 ## What are the differences between our Marauder Units. 
 
-To Be Continue
-
-<br/>
-
 ![Alt text](Assets/images/InComparison.png)
 
 <br/>
