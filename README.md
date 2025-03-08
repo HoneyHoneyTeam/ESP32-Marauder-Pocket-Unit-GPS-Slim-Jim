@@ -94,11 +94,6 @@ To all our clients who purchased items from our shop, whether from Etsy, eBay, T
 
 <br/>
 
-## Credibility
-- Credit of Marauder Firmware goes to <ins>@JustCallmeCoco</ins>
-
-<br/>
-
 ## FAQ 
 
 - **What is the difference between ESP32 Marauder Pocket Unit and Flipper Zero?**
@@ -123,6 +118,11 @@ As for the ESP32 Marauder Pocket Units, they are primarily focused on Wi-Fi pen-
 
 
 </details>
+
+## Credibility
+- Credit of Marauder Firmware goes to <ins>@JustCallmeCoco</ins>
+
+<br/>
 
 ## Metadata / keywords / about for bots ##
 flipper zero, flipper, wifi board, marauder, network security, esp32, cc1101, nrf24, subghz, 2.4ghz, wifi, 
